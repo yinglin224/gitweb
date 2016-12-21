@@ -14,5 +14,6 @@ public class GitTest {
 		String gitTest = "Git start test";
 		System.out.println(gitTest);
 		System.out.println("gitTest");
+		System.out.println("gitTest two");
 	}
 }
