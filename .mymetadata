@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gitweb"
+  id="myeclipse.1482285591781"
+  context-root="/gitweb"
+  j2ee-spec="5.0"
+  archive="gitweb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
