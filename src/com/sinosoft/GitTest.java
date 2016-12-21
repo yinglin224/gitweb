@@ -13,5 +13,6 @@ public class GitTest {
 	public static void main(String[] args) {
 		String gitTest = "Git start test";
 		System.out.println(gitTest);
+		System.out.println("gitTest");
 	}
 }
